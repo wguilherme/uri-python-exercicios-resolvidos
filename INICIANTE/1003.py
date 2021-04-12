@@ -1,4 +1,4 @@
-A = float(input())
-B = float(input())
+A = int(input())
+B = int(input())
 
-print(f"SOMA={A+B}")
+print(f"SOMA = {A+B}")
